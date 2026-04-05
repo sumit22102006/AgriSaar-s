@@ -26,6 +26,14 @@ app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 app.use(morgan('dev'));
 
+app.get('/', (req, res) => {
+  res.json({
+    success: true,
+    message: '🚀 AgriSaar API is live!',
+    docs: 'https://github.com/sumit22102006/AgriSaar-s/blob/main/API_SPEC.md'
+  });
+});
+
 app.get('/api/health', (req, res) => {
   res.json({
     success: true,
