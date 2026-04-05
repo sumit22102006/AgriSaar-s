@@ -1,0 +1,1 @@
+﻿619019a fix: complete frontend-backend integration - fix data extraction in all hooks and pages
