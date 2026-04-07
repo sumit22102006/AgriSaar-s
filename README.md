@@ -8,6 +8,7 @@ Smart Farming AI is an intelligent decision-support system designed to help farm
 
 ---
 
+
 ## 🎯 Problem Statement
 
 Farmers often receive technical soil reports that are difficult to understand. Due to lack of proper guidance, they:
@@ -30,6 +31,20 @@ Smart Farming AI bridges the gap between **soil data and real-world farming deci
 * 💰 Government scheme recommendations
 * 📅 Step-by-step farming action plan
 
+---
+
+## 📸 Landing Page Preview
+
+<p align="center">
+  <a href="https://agri-saar-s.vercel.app/">
+    <img 
+      src="https://api.microlink.io/?url=https://agri-saar-s.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" 
+      alt="Agri Saar Landing Page Preview" 
+      width="90%" 
+      style="border-radius:12px; box-shadow:0px 8px 25px rgba(0,0,0,0.3);" 
+    />
+  </a>
+</p>
 ---
 
 ## 🔥 Key Features
